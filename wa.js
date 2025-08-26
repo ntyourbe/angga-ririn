@@ -13,7 +13,7 @@
       const formattedMessage = encodeURIComponent(message); 
        
       // Build WhatsApp URL 
-      const whatsappUrl = `https://wa.me/+6289514031191?text=${formattedName}%0A${formattedMessage}`; 
+      const whatsappUrl = `https://wa.me/+6285808452468?text=${formattedName}%0A${formattedMessage}`; 
  
       // Open WhatsApp URL 
       window.open(whatsappUrl); 
